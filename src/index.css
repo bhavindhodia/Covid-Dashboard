@@ -1,0 +1,28 @@
+
+@font-face {
+    font-family: 'archiaregular';
+    src: url('./assets/fonts/archia-regular-webfont.eot');
+    src: url('./assets/fonts/archia-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('./assets/fonts/archia-regular-webfont.woff2') format('woff2'),
+         url('./assets/fonts/archia-regular-webfont.woff') format('woff'),
+         url('./assets/fonts/archia-regular-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+body {
+  margin: 0;
+  background: #161625 !important;
+     font-family: 'archiaregular'; 
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: white;
+}
+
+a{
+  text-decoration: none;
+    color: white;
+}
+code {
+font-family: 'archiaregular'; 
+}
