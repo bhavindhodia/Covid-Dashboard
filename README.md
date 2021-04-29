@@ -1,6 +1,6 @@
 # Covid Dashboard 😷
 
-https://user-images.githubusercontent.com/33523216/116502178-7684a300-a8d0-11eb-80de-5200ebb6b4e6.mp4
+![Demo](https://user-images.githubusercontent.com/33523216/116503549-08da7600-a8d4-11eb-9e6a-a14330f5e31c.gif)
 
 
 ## Check it Live  !!!
